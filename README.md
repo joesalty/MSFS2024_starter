@@ -9,3 +9,5 @@ Its sole job is to automatically launch all required simulator applications in s
 Before starting each program, the script performs a quick check to see whether the application is already running.
 If it isn’t, the script launches it.
 If it is, the script simply moves on to the next one.
+
+Simply save to Your desktop, and double click to run.
