@@ -11,3 +11,5 @@ If it isn’t, the script launches it.
 If it is, the script simply moves on to the next one.
 
 Simply save to Your desktop, and double click to run.
+
+***Be aware, that there is a delay between each start. 180 sec after start of MSFS, and 10 sec between each program.***
